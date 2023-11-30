@@ -1,5 +1,7 @@
 <div align="center">
   <!-- dynamic typing effect  -->
+    <!-- knock code pictures    -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -8,8 +10,7 @@
     </picture>
   </div>
 
-  <!-- knock code pictures    -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
 
 
 <!-- Snake Code Contribution Map  -->
