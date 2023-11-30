@@ -17,7 +17,7 @@
 
 </div>
 
-#  🙋 Hi bro, be friends with me
+#  🙋 Hi bro, be friends with me!
 
 
 
