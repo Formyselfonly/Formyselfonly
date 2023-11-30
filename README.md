@@ -25,7 +25,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Lo7dhARuetrSlgDRVGygHzbSVLeiYfjuSQ&usqp=CAU" />
+
 
 
 <p>&emsp;&emsp;I'm Forselfonly,fans of OpenAI</p>
