@@ -24,10 +24,6 @@
 <!-- About me  -->
 
 ### 🤺 About Me
-
-
-
-
 <p>&emsp;&emsp;I'm Forselfonly,fans of OpenAI</p>
 <p>&emsp;&emsp;Learn OpenAI skills</p>
 <p>&emsp;&emsp;Find OpenAI jobs</p>
