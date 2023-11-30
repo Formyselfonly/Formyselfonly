@@ -4,7 +4,7 @@
     <a href="https://www.ztxgpt.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World!%22);Have a good day!&center=true&size=27" alt="Typing SVG" />
     </a>
-  </div>
+</div>
 
 
   <!-- knock code pictures  -->
@@ -24,10 +24,12 @@
 <!-- About me  -->
 
 ### 🤺 About Me
+<div align="center">
 <p>&emsp;&emsp;I'm Forselfonly,fans of OpenAI</p>
 <p>&emsp;&emsp;Learn OpenAI skills</p>
 <p>&emsp;&emsp;Find OpenAI jobs</p>
 <p>&emsp;&emsp;Buy OpenAI stocks</p>
+</div>
 
 
 
