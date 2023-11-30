@@ -18,6 +18,9 @@
 </div>
 
 #  🙋 Hi bro, be friends with me!
+## Learn OpenAI technology
+## Join OpenAI company
+## Buy OpenAI stocks
 
 
 
