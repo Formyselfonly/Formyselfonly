@@ -31,14 +31,8 @@
 <p>&emsp;&emsp;Learn OpenAI skills</p>
 <p>&emsp;&emsp;Find OpenAI jobs</p>
 <p>&emsp;&emsp;Buy OpenAI stocks</p>
-</div>
-  - Job：Prompt Engineer
-  - description：[See my Project](https://github.com/Formyselfonly?tab=repositories)
 
-</td></tr>
 
-<tr>
-<td>
 
 
 
