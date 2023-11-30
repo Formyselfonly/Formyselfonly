@@ -15,7 +15,7 @@
 
 </div>
 
-#  🙋 HI bro, be friends with me
+#  🙋 Hi bro, be friends with me
 
 <table>
 <tr><td>
@@ -32,6 +32,8 @@
 
 
 ### 🏢 Work Experience
+<table>
+<tr><td>
 
 <img align="right" width="88" src="https://github.com/Formyselfonly?tab=repositories" />
 
