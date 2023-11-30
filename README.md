@@ -37,7 +37,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="[https://github.com/LeLe-SouthCity/LeLe-SouthCity/assets/103248258/ad48e175-0960-4d58-b58f-4f3674f8372d](https://github.com/Formyselfonly?tab=repositories)" />
+<img align="right" width="88" src="https://github.com/Formyselfonly?tab=repositories" />
 
 - [OgCloud](https://www.ogcloud.com/) &emsp; 📌 2023-04-17 —— Now
 
