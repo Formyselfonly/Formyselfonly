@@ -8,14 +8,14 @@
 
 
   <!-- knock code pictures  -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Lo7dhARuetrSlgDRVGygHzbSVLeiYfjuSQ&usqp=CAU" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
 
 
 
 </div>
 
-#  🙋 Hello
+#  🙋 HI bro, be friends with me
 
 <table>
 <tr><td>
@@ -25,18 +25,15 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8d%2FSam_Altman_CropEdit_James_Tamim.jpg%2F1200px-Sam_Altman_CropEdit_James_Tamim.jpg&tbnid=BRdX0UvQbbJ1pM&vet=12ahUKEwjv4bLz3OqCAxXaBogKHX6ODLUQMygAegQIARBl..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSam_Altman&docid=rtM9I8hYFJ5ONM&w=1200&h=1201&itg=1&q=sam%20altman&safe=active&ved=2ahUKEwjv4bLz3OqCAxXaBogKHX6ODLUQMygAegQIARBl" />
+<img align="right" width="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Lo7dhARuetrSlgDRVGygHzbSVLeiYfjuSQ&usqp=CAU" />
+
 
 <p>&emsp;&emsp;I'm Forselfonly,fans of OpenAI</p>
 <p>&emsp;&emsp;Learn OpenAI skills</p>
 <p>&emsp;&emsp;Find OpenAI jobs</p>
 <p>&emsp;&emsp;Buy OpenAI stocks</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
 
-<tr>
-<td>
 
 ### 🏢 Work Experience
 
