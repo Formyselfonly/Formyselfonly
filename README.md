@@ -21,6 +21,8 @@
 </div>
 
 #  🙋 Hi bro, be friends with me!
+## Here is my LinkedIn
+www.linkedin.com/in/shijie-zheng-8b230433b
 ## Learn OpenAI technology
 ## Join OpenAI company
 ## Buy OpenAI stocks
