@@ -23,9 +23,9 @@
 #  🙋 Hi bro, be friends with me!
 ## Here is my LinkedIn
 www.linkedin.com/in/shijie-zheng-8b230433b
-## Learn OpenAI technology
-## Join OpenAI company
-## Buy OpenAI stocks
+## Learn OpenAI,LangChain,HuggingFace technology
+## Join OpenAI,LangChain,HuggingFace company
+## Buy OpenAI,LangChain,HuggingFace stocks
 ## Just Try,Here is my project below:
 
 
