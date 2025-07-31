@@ -21,6 +21,8 @@
 </div>
 
 #  🙋 Hi bro, be friends with me!
+## Know about me with my SelfAgent
+https://udify.app/chat/mRUJvCaXKiA7t507
 ## Here is my LinkedIn
 www.linkedin.com/in/shijie-zheng-8b230433b
 ## Learn OpenAI,LangChain,HuggingFace technology
