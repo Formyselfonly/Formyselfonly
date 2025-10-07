@@ -30,6 +30,7 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 ## Buy OpenAI,LangChain,HuggingFace stocks
 ## Related Website
 ### B站
+https://space.bilibili.com/364838313?spm_id_from=333.33.0.0
 ### 我的病娇女友Demo试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
 ### 我的重开生活Demo试玩
