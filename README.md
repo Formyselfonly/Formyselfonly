@@ -28,7 +28,7 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 ## Learn OpenAI,LangChain,HuggingFace technology
 ## Join OpenAI,LangChain,HuggingFace company
 ## Buy OpenAI,LangChain,HuggingFace stocks
-## Related Website
+## Related Personal Website
 ### B站
 https://space.bilibili.com/364838313?spm_id_from=333.33.0.0
 ### 我的病娇女友Demo试玩
