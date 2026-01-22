@@ -19,8 +19,8 @@
 # Bilibili-郑同学是我
 https://space.bilibili.com/364838313
 #  🙋 Hi bro, be friends with me!
-3 years+ experience AI Engineer!
-A firm believer in AI and Web1+2 (Because they give everyone an equal opportunity)
+- 3 years+ experience AI Engineer!
+- A firm believer in AI and Web1+2 (Because they give everyone an equal opportunity)
 ## Know about me with my SelfAgent
 https://udify.app/chat/mRUJvCaXKiA7t507
 ## Here is my LinkedIn
