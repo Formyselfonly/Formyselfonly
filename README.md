@@ -25,9 +25,6 @@ https://space.bilibili.com/364838313
 https://udify.app/chat/mRUJvCaXKiA7t507
 ## Here is my LinkedIn
 www.linkedin.com/in/shijie-zheng-8b230433b
-## Learn OpenAI,LangChain,HuggingFace technology
-## Join OpenAI,LangChain,HuggingFace company
-## Buy OpenAI,LangChain,HuggingFace stocks
 ## Related Personal Website
 ### 我的病娇女友Demo试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
