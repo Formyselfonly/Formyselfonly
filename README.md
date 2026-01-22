@@ -35,16 +35,12 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 - 框架:react+nextjs
 - 部署相关: vercel
 
-## Frontend
-## Related Personal Website
+
+## Demo Project To Play Here
 ### 我的病娇女友Demo试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
 ### 我的重开生活Demo试玩
 https://udify.app/chat/LybxQvORzxBRe72H
-### 大学生GPT
-https://student.zsjstudy.cn/
-### ECommerceGPT
-https://web.ecommercegpt.cn/
 ## Just Try,Here is my project below:
 
 
