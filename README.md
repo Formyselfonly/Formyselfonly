@@ -21,10 +21,21 @@ https://space.bilibili.com/364838313
 #  🙋 Hi bro, be friends with me!
 - 3 years+ experience AI Engineer!
 - A firm believer in AI and Web1+2 (Because they give everyone an equal opportunity)
-## Know about me with my SelfAgent
-https://udify.app/chat/mRUJvCaXKiA7t507
 ## Here is my LinkedIn
 www.linkedin.com/in/shijie-zheng-8b230433b
+## Backend
+- 语言:Python
+- 框架:FastAPI+langchain&langgraph&langsmith/dify
+- 数据库相关:mysql/postgre&pgvector/supabase+sqlalchemy
+- AI相关API接口熟悉:ollama+openai+deepseek+aws AI
+- 部署相关:aws
+
+## Frontend
+- 语言:javascript+typescript
+- 框架:react+nextjs
+- 部署相关: vercel
+
+## Frontend
 ## Related Personal Website
 ### 我的病娇女友Demo试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
