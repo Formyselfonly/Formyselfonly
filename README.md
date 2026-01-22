@@ -19,7 +19,10 @@
 
 
 </div>
-# Contact me:@kerryzheng
+#  Contact me
+@kerryzheng
+# Bilibili-郑同学是我
+https://space.bilibili.com/364838313
 #  🙋 Hi bro, be friends with me!
 A firm believer in AI and Web1+2 (Because they give everyone an equal opportunity)
 ## Know about me with my SelfAgent
@@ -30,8 +33,6 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 ## Join OpenAI,LangChain,HuggingFace company
 ## Buy OpenAI,LangChain,HuggingFace stocks
 ## Related Personal Website
-### B站
-https://space.bilibili.com/364838313?spm_id_from=333.33.0.0
 ### 我的病娇女友Demo试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
 ### 我的重开生活Demo试玩
