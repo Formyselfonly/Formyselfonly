@@ -37,9 +37,9 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 
 
 ## Demo Project To Play Here
-### 我的病娇女友Demo试玩
+### 我的病娇女友Demo版试玩
 https://udify.app/chat/Jf7UHHnVl8mpZb9G
-### 我的重开生活Demo试玩
+### 我的重开生活Demo版试玩
 https://udify.app/chat/LybxQvORzxBRe72H
 ## Just Try,Here is my project below:
 
