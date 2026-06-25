@@ -27,7 +27,7 @@ www.linkedin.com/in/shijie-zheng-8b230433b
 - 语言:Python
 - 框架:FastAPI+langchain&langgraph&langsmith/dify
 - 数据库相关:mysql/postgre&pgvector/supabase+sqlalchemy
-- AI相关API接口熟悉:ollama+openai+deepseek+aws AI
+- AI相关API接口熟悉:gemini+openai+deepseek+aws AI
 - 部署相关:aws
 
 ## Frontend
