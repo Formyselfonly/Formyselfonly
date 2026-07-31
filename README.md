@@ -14,7 +14,7 @@
 </div>
 
 # Website
-https://formyselfonly.github.io/kerry-zheng-ai-portfolio
+https://github.kerryzhengai.com
 # Contact me
 @kerryzheng
 # Bilibili-郑同学是我
