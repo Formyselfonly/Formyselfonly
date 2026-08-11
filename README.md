@@ -22,7 +22,7 @@ https://space.bilibili.com/364838313
 #  🙋 Hi bro, be friends with me!
 - 3 years+ experience AI Engineer!
 - A firm believer in AI and Web1+2 (Because they give everyone an equal opportunity)
-## Here is my LinkedIn
+## Here is my LinkedIn(一百万年没更新...)
 www.linkedin.com/in/shijie-zheng-8b230433b
 ## Backend
 - 语言:Python
